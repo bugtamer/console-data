@@ -26,9 +26,9 @@
 
 ### Extract text from data source
 
-- Adobe Reader `Save as Text...`
+- Adobe Reader `Save as Text...` [nes_games.adobe-reader.txt](./nes_games.adobe-reader.txt)
 - [Brandfolder Text Extractor Tool](https://brandfolder.com/workbench/extract-text-from-image) 2021-07-11
-- Save result as: [nes_games.txt](./nes_games.txt)
+- Save result as: [nes_games.brandfolder.txt](./nes_games.brandfolder.txt)
   - Encoding: UTF-8
   - EOL: `\n`
 
